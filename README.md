@@ -8,6 +8,7 @@ I need to create an application that imitate work of the windows explorer
 - Typescript
 - Tailwind CSS
 - React Icons
+- ESLint
 
 ## Requirements
 
