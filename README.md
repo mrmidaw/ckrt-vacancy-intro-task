@@ -7,6 +7,9 @@ I need to create an application that imitate work of the windows explorer
 - React
 - Typescript
 - Tailwind CSS
+- Redux Toolkit
+- Axios
+- Toastify
 - React Icons
 - ESLint
 

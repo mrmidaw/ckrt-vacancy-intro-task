@@ -6,8 +6,8 @@ import { FiXCircle } from 'react-icons/fi';
 export const Header = () => {
     return (
         <div className='flex justify-between h-10 border-b-2 border-black' >
-            <h1 className='ml-4 text-center text-2xl font-bold '>
-                Header
+            <h1 className='ml-4 text-center text-2xl  '>
+                Explorer
             </h1>
             <div className='flex mr-4'>
                 <AiOutlineMinusCircle size={30} />
